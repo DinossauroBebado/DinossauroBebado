@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div>
+<img  height = "180" src = "https://github-readme-stats.vercel.app/api?username=DinossauroBebado&theme=default&show_icons=true&hide_rank=True">
+<img height = "180" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DinossauroBebado&layout=compact">
+</div>
 -->
