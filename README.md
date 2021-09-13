@@ -1,21 +1,40 @@
-### Hi there 👋
 
-<!--
-**DinossauroBebado/DinossauroBebado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello ! 
+## I'am curious, 
+### so LET´S FIND OUT HOW THINGS WORKS 
 
-Here are some ideas to get you started:
+in love with technology in all forms and shapes but my heart belongs to **robotics** 🤖
+<br>So you should check out my last one : **RANGI** he´s kiwi :new_zealand:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Also wanna be pythonista 🐍 loots of study ahead 
+##
 
-<div>
-<img  height = "180" src = "https://github-readme-stats.vercel.app/api?username=DinossauroBebado&theme=default&show_icons=true&hide_rank=True">
-<img height = "180" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DinossauroBebado&layout=compact">
-</div>
--->
+Right now studying : 
+- openCv 
+- Js
+- The book : fluent python by Luciano Ramalho 
+- EspNow 
+
+I am graduating in mecatronics and have a dog named Laio he's awesome
+
+![top](https://github-readme-stats.vercel.app/api/top-langs/?username=DinossauroBebado&langs_count=7&theme=Default)
+  
+Wanna talk ?<br> Here : 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinossauro.bebado/)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DinossauroBebado)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Dinossauro.Bebado/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pires-silva-6b11811b7/)
+  
+  
+
+  
+
+:shipit:
+
+
+
+
+
+
+
