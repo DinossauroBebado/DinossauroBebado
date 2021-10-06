@@ -7,7 +7,7 @@
   🤖in love with technology in all forms and shapes but my heart belongs to **robotics** 
   <br>So you should check out my last one : **RANGI** he´s kiwi :new_zealand:
 
-  🐍Also wanna be pythonista  <br>
+  🐍Wanna be pythonista  <br>
 
   🐶I am graduating in mecatronics and have a dog named Laio he's awesome
 
