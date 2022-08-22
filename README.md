@@ -5,16 +5,16 @@
   <img align="right" align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinossauroBebado&langs_count=7&theme=Default"/>
   
   🤖in love with technology in all forms and shapes but my heart belongs to **robotics** 
-  <br>So you should check out my last one : **RANGI** he´s kiwi :new_zealand:
+  <br>So you should check out my last one : **ROSNALDO**:
 
-  🐍Wanna be pythonista  <br>
+  Wanna be Robot  <br>
 
   🐶I am graduating in mecatronics and have a dog named Laio he's awesome
 
   Right now studying : 
-  - openCv 
-  - Js
-  - The book : fluent python by Luciano Ramalho 
+  - ROS
+  - ESP32
+  - Cinematic of mobile robots 
   - ML
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinossauro.bebado/)
