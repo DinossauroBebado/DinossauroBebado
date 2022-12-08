@@ -2,7 +2,7 @@
 # Hello !
   ### I'am curious, 
   ### so LET´S FIND OUT HOW THINGS WORKS 
-  <img align="right" align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinossauroBebado&langs_count=7&theme=Default"/>
+ 
   
   🤖in love with technology in all forms and shapes but my heart belongs to **robotics** 
   <br>So you should check out my last one : **ROSNALDO**:
